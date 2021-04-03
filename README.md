@@ -1,4 +1,8 @@
 # shu-cron
-SHU监控服务
+SHU监控服务(Beta)
 
-目前完成了一卡通余额监控预警(card-balance.py)
+___
+
+项目 | 对应名称
+---|---
+一卡通余额监控|card-balance.py
